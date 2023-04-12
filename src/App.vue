@@ -1,9 +1,7 @@
 <template>
-  <ion-app>
-    <ion-router-outlet />
-  </ion-app>
+  <ion-button>My Button</ion-button>
 </template>
 
 <script setup lang="ts">
-import { IonApp, IonRouterOutlet } from '@ionic/vue';
+import { IonButton } from '@ionic/vue';
 </script>
